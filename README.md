@@ -1,1 +1,1 @@
-# Base64Manifesto
+# Base64 Manifesto
